@@ -31,8 +31,3 @@ Both models were evaluated based on loss curves, accuracy per class, and overall
 ## Conclusion
 
 In conclusion, the CNN model demonstrated superior performance for image classification tasks on the CIFAR-10 dataset compared to the ANN model. Further exploration could involve experimenting with different optimization functions, image preprocessing techniques, or model architectures.
-
-## Questions
-
-If you have any questions or feedback, please feel free to reach out.
-
