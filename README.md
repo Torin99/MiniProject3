@@ -10,7 +10,6 @@ This repository contains the implementation of Artificial Neural Networks (ANN) 
 - [Convolutional Neural Network (CNN) Implementation](#convolutional-neural-network-implementation)
 - [Model Evaluations](#model-evaluations)
 - [Conclusion](#conclusion)
-- [Questions](#questions)
 
 ## Dataset Overview
 
