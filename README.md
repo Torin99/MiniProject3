@@ -1,7 +1,7 @@
 # Neural Networks for Image Analysis
 <img width="733" alt="NNCover" src="https://github.com/Torin99/Neural-Networks-Image-Analysis/assets/87572723/a46594b4-faea-4746-9d3f-c7c8424b174a">
 
-This repository contains the implementation of Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN) for image analysis tasks using the CIFAR-10 dataset. The project was developed by Group 6 for CP322-A Mini-Project 3: Machine Learning.
+This repository contains the implementation of Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN) for image analysis tasks using the CIFAR-10 dataset.
 
 ## Table of Contents
 
